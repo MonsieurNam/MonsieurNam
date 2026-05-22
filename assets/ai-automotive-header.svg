@@ -1,0 +1,105 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Ngo Nhat Nam AI Automotive Header</title>
+  <desc id="desc">A futuristic autonomous vehicle banner with neural network nodes, road grid, radar arcs, and AI computer vision styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.42" stop-color="#082F49"/>
+      <stop offset="0.72" stop-color="#0E7490"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(604 190) rotate(90) scale(210 520)">
+      <stop stop-color="#22D3EE" stop-opacity="0.46"/>
+      <stop offset="0.45" stop-color="#38BDF8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="road" x1="600" y1="173" x2="600" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="carLine" x1="284" y1="252" x2="916" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#A7F3D0"/>
+      <stop offset="0.86" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#67E8F9" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <style>
+      .dash { stroke-dasharray: 12 18; animation: dash 7s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .scan { animation: scan 4.5s ease-in-out infinite; }
+      .float { animation: float 5.5s ease-in-out infinite; }
+      @keyframes dash { to { stroke-dashoffset: -180; } }
+      @keyframes pulse { 0%,100% { opacity: .42; } 50% { opacity: 1; } }
+      @keyframes scan { 0%,100% { transform: translateX(-34px); opacity: .15; } 50% { transform: translateX(34px); opacity: .85; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+
+  <g opacity="0.7">
+    <path d="M0 292C180 250 332 255 470 277C626 303 735 320 913 276C1028 248 1125 247 1200 262V360H0V292Z" fill="#020617" fill-opacity="0.78"/>
+    <path d="M536 175L328 360M664 175L872 360" stroke="#67E8F9" stroke-opacity="0.20" stroke-width="2"/>
+    <path d="M598 176V360" stroke="#E0F2FE" stroke-opacity="0.20" stroke-width="2" stroke-dasharray="20 20"/>
+    <path d="M482 215H718M430 252H770M360 303H840" stroke="#67E8F9" stroke-opacity="0.14"/>
+  </g>
+
+  <g class="float" filter="url(#softGlow)">
+    <path d="M286 252C318 214 372 191 451 185L507 148C522 138 542 132 563 132H665C689 132 710 141 725 158L757 194C816 202 872 221 916 251" stroke="url(#carLine)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M366 253H833" stroke="#E0F2FE" stroke-opacity="0.88" stroke-width="3" stroke-linecap="round"/>
+    <path d="M512 183H711L681 153H559L512 183Z" fill="#0EA5E9" fill-opacity="0.18" stroke="#A7F3D0" stroke-opacity="0.85" stroke-width="2"/>
+    <circle cx="421" cy="257" r="31" fill="#020617" stroke="#38BDF8" stroke-width="5"/>
+    <circle cx="421" cy="257" r="12" fill="#38BDF8" fill-opacity="0.76"/>
+    <circle cx="790" cy="257" r="31" fill="#020617" stroke="#38BDF8" stroke-width="5"/>
+    <circle cx="790" cy="257" r="12" fill="#38BDF8" fill-opacity="0.76"/>
+    <path class="dash" d="M500 224H704" stroke="#A7F3D0" stroke-opacity="0.95" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.82" filter="url(#softGlow)">
+    <path class="dash" d="M600 130C521 135 465 166 430 214" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="2"/>
+    <path class="dash" d="M600 130C680 136 739 168 780 214" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="2"/>
+    <path class="dash" d="M600 130C600 161 600 193 600 230" stroke="#A7F3D0" stroke-opacity="0.56" stroke-width="2"/>
+    <circle class="pulse" cx="600" cy="130" r="7" fill="#A7F3D0"/>
+    <circle class="pulse" cx="430" cy="214" r="6" fill="#22D3EE"/>
+    <circle class="pulse" cx="780" cy="214" r="6" fill="#22D3EE"/>
+    <circle class="pulse" cx="600" cy="230" r="6" fill="#A7F3D0"/>
+  </g>
+
+  <g opacity="0.7">
+    <path class="dash" d="M133 242C192 157 281 104 381 88" stroke="#38BDF8" stroke-opacity="0.32" stroke-width="2"/>
+    <path class="dash" d="M1067 242C1008 157 919 104 819 88" stroke="#38BDF8" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M112 116H246M954 116H1088" stroke="#67E8F9" stroke-opacity="0.22"/>
+    <path d="M112 136H206M994 136H1088" stroke="#67E8F9" stroke-opacity="0.16"/>
+  </g>
+
+  <g class="scan">
+    <rect x="300" y="78" width="600" height="160" fill="#67E8F9" fill-opacity="0.06"/>
+    <path d="M300 78V238" stroke="#67E8F9" stroke-opacity="0.38" stroke-width="2"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="82" fill="#E0F2FE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="5">AI x AUTOMOTIVE RESEARCH</text>
+    <text x="600" y="121" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="800">NGUYEN NGO NHAT NAM</text>
+    <text x="600" y="319" fill="#BAE6FD" font-family="Fira Code, Consolas, monospace" font-size="20" font-weight="700">Computer Vision | ADAS | Edge AI | Autonomous Systems</text>
+  </g>
+
+  <g opacity="0.92">
+    <text x="76" y="72" fill="#67E8F9" font-family="Fira Code, Consolas, monospace" font-size="14">[ SENSOR FUSION ]</text>
+    <text x="958" y="72" fill="#A7F3D0" font-family="Fira Code, Consolas, monospace" font-size="14">[ VLM / PEFT ]</text>
+    <text x="76" y="323" fill="#38BDF8" font-family="Fira Code, Consolas, monospace" font-size="14">ROS2</text>
+    <text x="1050" y="323" fill="#38BDF8" font-family="Fira Code, Consolas, monospace" font-size="14">JETSON</text>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0369A1,100:22D3EE&text=NGUYEN%20NGO%20NHAT%20NAM&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=16" alt="Nguyen Ngo Nhat Nam banner">
+  <img src="./assets/ai-automotive-header.svg" alt="Nguyen Ngo Nhat Nam AI Automotive banner">
 </p>
 
 <p align="center">
