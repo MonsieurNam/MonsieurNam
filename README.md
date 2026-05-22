@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Nghi (username: @Winter24).
+- 👋 Hi, My name is Nghi (username: [@MonsieurNam](https://github.com/MonsieurNam)).
 - 🐞 I'm a Bug.
 - 👀 I’m interested in detective novels, coding, solving problems.
 - I'm a Weeb, in love with robot, space ship, space science, astronomy... 
@@ -18,20 +18,20 @@
   <tr>
     <!-- <td> -->
       <!-- GitHub Stats card -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=winter24&show_icons=true&theme=show_icons=true&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" /> -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=MonsieurNam&show_icons=true&theme=show_icons=true&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" /> -->
     <!-- </td> -->
     <td>
       <!-- Most Used Languages card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winter24&layout=compact&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsieurNam&layout=compact&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" />
     </td>
   </tr>
 </table>
 
-![](https://raw.githubusercontent.com/winter24/Winter24/main/cards/stats.svg)
+![](https://raw.githubusercontent.com/MonsieurNam/MonsieurNam/main/cards/stats.svg)
 
 <table align="center">
   <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=winter24&theme=dark&background=2b213a&ring=FF66C4&fire=FF66C4&currStreakLabel=F8D866&sideNums=F8D866&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MonsieurNam&theme=dark&background=2b213a&ring=FF66C4&fire=FF66C4&currStreakLabel=F8D866&sideNums=F8D866&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
   </td>
 </table>
 <br/>
@@ -52,10 +52,10 @@
     <td>
       <h2>ROS2 Webapp Controlling Robot</h2>
       <div align="center">
-        <img src="https://github.com/Winter24/ros2-web-bridge/blob/master/web_bridge.png" alt="Web Bridge 1" width="800" height="500" />
+        <img src="https://github.com/MonsieurNam/ros2-web-bridge/blob/master/web_bridge.png" alt="Web Bridge 1" width="800" height="500" />
       </div>
       <div align="center">
-        <img src="https://github.com/Winter24/ros2-web-bridge/blob/master/web_bridge2.png" alt="Web Bridge 2" width="800" height="500" />
+        <img src="https://github.com/MonsieurNam/ros2-web-bridge/blob/master/web_bridge2.png" alt="Web Bridge 2" width="800" height="500" />
       </div>
     </td>
   </tr>
@@ -64,7 +64,7 @@
     <td>
       <h2>Pedestrian Detection</h2>
       <div align="center">
-        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Pedestrian Detection" width="600" height="400" />
+        <img src="https://github.com/MonsieurNam/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Pedestrian Detection" width="600" height="400" />
       </div>
     </td>
   </tr>
@@ -82,12 +82,11 @@
 
 
 <h1>Published Paper:</h1> 
-<a href="https://scholar.google.com/citations?user=ztzAuOMAAAAJ&hl=en" target="_blank">
+<a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge">
 </a>
 
 <!-- SCHOLAR-LIST:START -->
-
 <table id="scholar-table" style="position: relative;">
   <tr>
     <th>Title</th>
@@ -96,50 +95,11 @@
     <th>Year</th>
   </tr>
   <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:9yKSN-GCB0IC">Deep learning-based lane-keeping assist system for self-driving cars using transfer learning and fine tuning</a></td>
-    <td>PP Hong, HH Khanh, NN Vinh, NN Trung, AN Quoc, HT Ngoc</td>
-    <td>13</td>
-    <td>2024</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:d1gkVwhDpl0C">Efficient Evaluation of SLAM Methods and Integration of Human Detection with YOLO Based on Multiple Optimization in ROS2.</a></td>
-    <td>HT Ngoc, NN Vinh, NT Nguyen, LD Quach</td>
-    <td>8</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:2osOgNQ5qMEC">Enhancing semantic scene segmentation for indoor autonomous systems using advanced attention-supported improved UNet</a></td>
-    <td>HN Tran, NV Nguyen, NQP Le, NNN Nguyen, TAN Le, VD Nguyen</td>
-    <td>3</td>
-    <td>2025</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:u-x6o8ySG0sC">An improved lane-keeping controller for autonomous vehicles leveraging an integrated CNN-LSTM approach</a></td>
-    <td>TN Hoang, PP Hong, NN Vinh, NT Nguyen, KH Nguyen, LD Quach</td>
-    <td>3</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:UeHWp8X0CEIC">Semantic scene segmentation for indoor autonomous vision systems: leveraging an enhanced and efficient U-NET architecture</a></td>
-    <td>TAN Le, NV Nguyen, NT Nguyen, NQP Le, NNN Nguyen, HN Tran</td>
-    <td>2</td>
-    <td>2025</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:Tyk-4Ss8FVUC">FAST: A pioneering unlearning framework integrating fine-tuning, adverse training, and student–teacher methods</a></td>
-    <td>HN Tran, NT Nguyen, NV Nguyen, HX Nguyen, AD Nguyen</td>
-    <td></td>
-    <td>2025</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:IjCSPb-OGe4C">Fine-tuned depth-augmented U-Net for enhanced semantic segmentation in indoor autonomous vision systems</a></td>
-    <td>HN Tran, TAN Le, NV Nguyen, NT Nguyen, AD Nguyen</td>
-    <td></td>
-    <td>2025</td>
+     <td colspan="4" align="center"><a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ">View publications on Google Scholar</a></td>
   </tr>
 </table>
 
-<p>Last Updated: 2025-11-05 07:11:08 UTC</p><!-- SCHOLAR-LIST:END -->
+<p>Last Updated: 2026-05-22 UTC</p><!-- SCHOLAR-LIST:END -->
 <br/>
 
 <h1>Coursera Certificate:</h1> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
@@ -148,7 +108,7 @@
 </div>
 
 <!---
-Winter24/Winter24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MonsieurNam/MonsieurNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Icon badge:
 Node js: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
