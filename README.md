@@ -1,48 +1,83 @@
-# Nguyen Ngo Nhat Nam
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0369A1,100:22D3EE&text=NGUYEN%20NGO%20NHAT%20NAM&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=16" alt="Nguyen Ngo Nhat Nam banner">
+</p>
 
-_AI Researcher | Computer Vision | Autonomous Systems_
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Researcher+in+Computer+Vision;Autonomous+Systems+and+Edge+AI;Efficient+VLM+Adaptation+with+LoRA+and+QLoRA;Building+lightweight+models+for+real-world+robotics" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:namnguyenfnw@gmail.com"><img src="https://img.shields.io/badge/Email-namnguyenfnw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://nguyennhatnam.id.vn/"><img src="https://img.shields.io/badge/Portfolio-nguyennhatnam.id.vn-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/nguyen-nam-893b52280/"><img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Nam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/MonsieurNam"><img src="https://img.shields.io/badge/GitHub-MonsieurNam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Nguyen%20Ngo%20Nhat%20Nam-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-## About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MonsieurNam&style=for-the-badge&color=0ea5e9" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/MonsieurNam?style=for-the-badge&logo=github&color=22c55e" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/MonsieurNam?style=for-the-badge&logo=github&color=facc15" alt="GitHub stars">
+</p>
 
-I am an Artificial Intelligence undergraduate at **FPT University Can Tho**, working at the intersection of **computer vision**, **model optimization**, and **autonomous systems**. My research and engineering work focuses on building lightweight, high-performance AI models that can move from experiments into real-world robotics and edge-device deployment.
+## Research profile
 
-I am currently open to **AI Research**, **Computer Vision**, and **AI R&D Engineer** opportunities, especially in ADAS, autonomous driving, robotics, and edge AI.
+I am an Artificial Intelligence undergraduate at **FPT University Can Tho** with a research and engineering focus on **computer vision**, **efficient model adaptation**, and **autonomous systems**. My work aims to move AI from papers and prototypes into real robotics, ADAS, and edge-device workflows.
 
-| Education | Focus | Availability |
+I am currently open to **AI Research**, **Computer Vision**, and **AI R&D Engineer** opportunities, especially in autonomous driving, robotics, VLM adaptation, and edge AI.
+
+<table>
+  <tr>
+    <td><strong>Education</strong></td>
+    <td>Bachelor of Artificial Intelligence, FPT University Can Tho</td>
+  </tr>
+  <tr>
+    <td><strong>GPA</strong></td>
+    <td>8.77 / 10</td>
+  </tr>
+  <tr>
+    <td><strong>Core domains</strong></td>
+    <td>Computer Vision, Autonomous Systems, Edge AI, Vision-Language Models</td>
+  </tr>
+  <tr>
+    <td><strong>Current target</strong></td>
+    <td>Internship / Fresher AI R&amp;D Engineer roles</td>
+  </tr>
+</table>
+
+## What I build
+
+```mermaid
+flowchart LR
+    perception["Perception<br/>YOLO, SAM, GroundingDINO"]
+    adaptation["Efficient adaptation<br/>LoRA, QLoRA, PEFT"]
+    deployment["Edge deployment<br/>Jetson, ROS2, Docker"]
+    autonomy["Autonomous systems<br/>ADAS, robotics, self-driving"]
+
+    perception --> autonomy
+    adaptation --> deployment
+    deployment --> autonomy
+
+    classDef core fill:#0f172a,stroke:#38bdf8,color:#e0f2fe
+    class perception,adaptation,deployment,autonomy core
+```
+
+## Selected work
+
+| Project | Role | Signal |
 | --- | --- | --- |
-| B.AI, FPT University Can Tho | Computer Vision, VLMs, Autonomous Systems | Internship / Fresher AI R&D |
-| GPA: **8.77/10** | Edge AI, Model Compression, Robotics | Can Tho, Vietnam / Remote |
-
-## Research and engineering focus
-
-- **Autonomous systems:** perception pipelines, ADAS, robotics, self-driving car applications.
-- **Computer vision:** object detection, tracking, semantic segmentation, visual retrieval, data augmentation.
-- **Efficient AI:** LoRA/QLoRA, PEFT, model distillation, gradient checkpointing, edge-friendly optimization.
-- **Vision-language models:** CLIP adaptation, few-shot learning, memory-efficient fine-tuning.
-
-## Selected projects
-
-| Project | Role | Highlights |
-| --- | --- | --- |
-| [Video Retrieval System - Top 1 AI Challenge PTIT](https://github.com/MonsieurNam/object_video_retrieval) | First Prize Winner | Built a YOLO + SAM + CLIP retrieval pipeline with object tracking and temporal reasoning for complex content-based video queries. |
-| [SingLoRA-CLIP](https://github.com/MonsieurNam/singlora_clip) | Primary Researcher & Developer | Implemented SingLoRA for CLIP, reducing trainable parameters by **50%** while preserving strong few-shot performance across benchmark datasets. |
-| [QLoRA-CLIP IxT](https://github.com/MonsieurNam/QLORA_CLIP_IxT.git) | First Author & Primary Researcher | Analyzed static vs. dynamic memory in VLM fine-tuning and reduced peak training VRAM to **0.17 GB** with gradient checkpointing. |
-| [Traffic Sign Detection for Autonomous Vehicles](https://www.sciencedirect.com/science/article/pii/S2215098625000837) | Core Developer | Developed a lightweight traffic sign detection model using self-distillation on ResNet34 and Grounding DINO for open-set detection. |
-| [PIXEL PLANE](https://github.com/MonsieurNam/PIXEL_PLANE) | Core Developer | Built a Streamlit generative AI app that scales small autonomous-driving datasets into large synthetic training sets using GroundingDINO, SAM, PowerPaint, and Stable Video Diffusion. |
-| [PDF Chat & View Assistant](https://github.com/MonsieurNam) | Developer | Built Vietnamese PDF question-answering workflows with LangChain, Groq LLMs, and BM25 retrieval. |
+| [Video Retrieval System - Top 1 AI Challenge PTIT](https://github.com/MonsieurNam/object_video_retrieval) | First Prize Winner | YOLO + SAM + CLIP pipeline for object-aware video search, temporal reasoning, and visual report generation. |
+| [SingLoRA-CLIP](https://github.com/MonsieurNam/singlora_clip) | Primary Researcher & Developer | PEFT method for CLIP using a single symmetric update matrix, reducing trainable parameters by **50%**. |
+| [QLoRA-CLIP IxT](https://github.com/MonsieurNam/QLORA_CLIP_IxT.git) | First Author & Primary Researcher | VLM memory analysis with gradient checkpointing, reducing peak training VRAM to **0.17 GB**. |
+| [Traffic Sign Detection for Autonomous Vehicles](https://www.sciencedirect.com/science/article/pii/S2215098625000837) | Core Developer | Lightweight traffic sign detection with self-distillation on ResNet34 and Grounding DINO for open-set detection. |
+| [PIXEL PLANE](https://github.com/MonsieurNam/PIXEL_PLANE) | Core Developer | Generative AI data engine for autonomous-vehicle datasets using Streamlit, GroundingDINO, SAM, PowerPaint, and Stable Video Diffusion. |
 
 ## Publications
 
 <!-- SCHOLAR-LIST:START -->
-<table id="scholar-table" style="position: relative;">
+<table>
   <tr>
     <th>Title</th>
     <th>Venue</th>
@@ -65,54 +100,61 @@ I am currently open to **AI Research**, **Computer Vision**, and **AI R&D Engine
   </tr>
 </table>
 
-<p>More publications and citation details: <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ">Google Scholar</a></p>
+<p>More publication and citation details are available on <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ">Google Scholar</a>.</p>
 <!-- SCHOLAR-LIST:END -->
 
-## Experience and leadership
+## Leadership
 
 | Experience | Role | Contribution |
 | --- | --- | --- |
 | Vietnam Robotic Challenge (VORC) | Technical Mentor | Mentored teams in robot design, AI implementation, and competition preparation. |
-| Autonomous Race Competition 2024 | Technical Mentor & Organizing Committee | Coordinated an autonomous vehicle competition at FPT University and supported students on self-driving car technologies. |
+| Autonomous Race Competition 2024 | Technical Mentor & Organizing Committee | Coordinated the competition and supported students on self-driving car technologies. |
 
-## Technical skills
-
-| Area | Stack |
-| --- | --- |
-| Programming | Python, C++, SQL, JavaScript |
-| AI / ML | PyTorch, TensorFlow, Hugging Face Transformers, PEFT, LangChain |
-| Computer Vision | OpenCV, YOLO, SAM, GroundingDINO, CLIP, semantic segmentation, object tracking |
-| Edge / Robotics | ROS2, Jetson Nano, Docker, Ubuntu, autonomous vehicle workflows |
-| Research interests | ADAS, autonomous driving, robotics, efficient VLM adaptation, edge AI |
+## Technical stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,opencv,docker,git,github,linux,ubuntu" alt="Core stack">
 </p>
 
-## GitHub activity
+<table>
+  <tr>
+    <td><strong>AI / ML</strong></td>
+    <td>PyTorch, TensorFlow, Hugging Face Transformers, PEFT, LangChain</td>
+  </tr>
+  <tr>
+    <td><strong>Computer vision</strong></td>
+    <td>Object detection, tracking, semantic segmentation, visual retrieval, synthetic data generation</td>
+  </tr>
+  <tr>
+    <td><strong>Autonomous systems</strong></td>
+    <td>ROS2, Jetson Nano, Docker, Ubuntu, ADAS perception workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Research interests</strong></td>
+    <td>Efficient VLM adaptation, edge AI, robotics, autonomous driving</td>
+  </tr>
+</table>
+
+## GitHub metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsieurNam&layout=compact&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" alt="Most used languages">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MonsieurNam&theme=tokyonight" alt="GitHub profile summary">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MonsieurNam/MonsieurNam/main/cards/stats.svg" alt="GitHub profile summary">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MonsieurNam&theme=tokyonight" alt="Top languages by repository">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MonsieurNam&theme=tokyonight" alt="Top languages by commit">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MonsieurNam&theme=tokyonight" alt="GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MonsieurNam&theme=dark&background=2b213a&ring=FF66C4&fire=FF66C4&currStreakLabel=F8D866&sideNums=F8D866&dates=C9D1D9&border=30363D" alt="GitHub streak">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MonsieurNam&theme=tokyonight&utcOffset=7" alt="Productive time">
+  <img width="46%" src="https://streak-stats.demolab.com?user=MonsieurNam&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub streak">
 </p>
 
-## Contact
+## Connect
 
-I am always open to research collaborations, robotics projects, and AI engineering opportunities.
+I am open to research collaborations, robotics projects, and AI engineering opportunities.
 
 - Email: [namnguyenfnw@gmail.com](mailto:namnguyenfnw@gmail.com)
 - Portfolio: [nguyennhatnam.id.vn](https://nguyennhatnam.id.vn/)
