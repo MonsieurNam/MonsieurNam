@@ -69,7 +69,7 @@ flowchart LR
 | Project | Role | Signal |
 | --- | --- | --- |
 | [Video Retrieval System - Top 1 AI Challenge PTIT](https://github.com/MonsieurNam/object_video_retrieval) | First Prize Winner | YOLO + SAM + CLIP pipeline for object-aware video search, temporal reasoning, and visual report generation. |
-| [SingLoRA-CLIP](https://github.com/MonsieurNam/singlora_clip) | Primary Researcher & Developer | PEFT method for CLIP using a single symmetric update matrix, reducing trainable parameters by **50%**. |
+| [SingLoRA-CLIP](https://github.com/MonsieurNam/SingLoRa-CLIP) | Primary Researcher & Developer | PEFT method for CLIP using a single symmetric update matrix, reducing trainable parameters by **50%**. |
 | [QLoRA-CLIP IxT](https://github.com/MonsieurNam/QLORA_CLIP_IxT.git) | First Author & Primary Researcher | VLM memory analysis with gradient checkpointing, reducing peak training VRAM to **0.17 GB**. |
 | [Traffic Sign Detection for Autonomous Vehicles](https://www.sciencedirect.com/science/article/pii/S2215098625000837) | Core Developer | Lightweight traffic sign detection with self-distillation on ResNet34 and Grounding DINO for open-set detection. |
 | [PIXEL PLANE](https://github.com/MonsieurNam/PIXEL_PLANE) | Core Developer | Generative AI data engine for autonomous-vehicle datasets using Streamlit, GroundingDINO, SAM, PowerPaint, and Stable Video Diffusion. |
