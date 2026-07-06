@@ -77,30 +77,65 @@ flowchart LR
 ## Publications
 
 <!-- SCHOLAR-LIST:START -->
-<table>
+
+<p align="center">
+  <strong>Citations:</strong> 16 &nbsp;|&nbsp;
+  <strong>h-index:</strong> 3 &nbsp;|&nbsp;
+  <strong>i10-index:</strong> 0
+</p>
+
+<table id="scholar-table">
   <tr>
     <th>Title</th>
     <th>Venue</th>
+    <th>Citations</th>
+    <th>Quality / Rank</th>
+    <th>Source</th>
     <th>Year</th>
   </tr>
   <tr>
-    <td><a href="https://link.springer.com/article/10.1007/s11760-024-03779-w">Enhancing Semantic Scene Segmentation for Indoor Autonomous Systems Using Advanced Attention-Supported Improved UNet</a></td>
-    <td>Springer: Signal, Image and Video Processing</td>
-    <td>2025</td>
+    <td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=OtccK6UAAAAJ&amp;pagesize=100&amp;citation_for_view=OtccK6UAAAAJ:9yKSN-GCB0IC">Grounding DINO and distillation-enhanced model for advanced traffic sign detection and classification in autonomous vehicles</a></td>
+    <td>Engineering Science and Technology, an International Journal 64, 102028 , 2025</td>
+    <td align="center">7</td>
+    <td>Q1 / SJR 2025: 0.957</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=21100806003&amp;tip=sid">SCImago</a></td>
+    <td align="center">2025</td>
   </tr>
   <tr>
-    <td><a href="https://link.springer.com/article/10.1007/s11042-024-19302-9">Semantic Scene Segmentation for Indoor Autonomous Vision Systems: Leveraging an Enhanced and Efficient U-Net Architecture</a></td>
-    <td>Springer: Multimedia Tools and Applications</td>
-    <td>2025</td>
+    <td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=OtccK6UAAAAJ&amp;pagesize=100&amp;citation_for_view=OtccK6UAAAAJ:u-x6o8ySG0sC">Enhancing semantic scene segmentation for indoor autonomous systems using advanced attention-supported improved UNet</a></td>
+    <td>Signal, Image and Video Processing 19 (2), 190 , 2025</td>
+    <td align="center">5</td>
+    <td>Q2 / SJR 2025: 0.561</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=6200180165&amp;tip=sid">SCImago</a></td>
+    <td align="center">2025</td>
   </tr>
   <tr>
-    <td><a href="https://www.sciencedirect.com/science/article/pii/S2215098625000837">Grounding DINO and Distillation-Enhanced Model for Traffic Sign Detection</a></td>
-    <td>ScienceDirect / Elsevier</td>
-    <td>2025</td>
+    <td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=OtccK6UAAAAJ&amp;pagesize=100&amp;citation_for_view=OtccK6UAAAAJ:d1gkVwhDpl0C">Semantic scene segmentation for indoor autonomous vision systems: leveraging an enhanced and efficient U-NET architecture</a></td>
+    <td>Multimedia Tools and Applications 84 (11), 9341-9365 , 2025</td>
+    <td align="center">4</td>
+    <td>Q1 / SJR 2025: 0.798</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=25627&amp;tip=sid">SCImago</a></td>
+    <td align="center">2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=OtccK6UAAAAJ&amp;pagesize=100&amp;citation_for_view=OtccK6UAAAAJ:IjCSPb-OGe4C">SingLoRA-CLIP: Highly Efficient VLM Adaptation with a Single Parameter Matrix</a></td>
+    <td>International Conference on Computational Science and Its Applications, 251-263 , 2026</td>
+    <td align="center">0</td>
+    <td>Conference / CORE C</td>
+    <td><a href="https://portal.core.edu.au/conf-ranks/953/">CORE</a></td>
+    <td align="center">2026</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=OtccK6UAAAAJ&amp;pagesize=100&amp;citation_for_view=OtccK6UAAAAJ:UeHWp8X0CEIC">Enhancing AGWO-YOLO for Surveillance: Real-Time Human Detection with Adaptive Grey Wolf Optimizer</a></td>
+    <td>Asian Conference on Intelligent Information and Database Systems, 370-383 , 2026</td>
+    <td align="center">0</td>
+    <td>Conference / CORE B</td>
+    <td><a href="https://aciids.pwr.edu.pl/2023/">ACIIDS / CORE</a></td>
+    <td align="center">2026</td>
   </tr>
 </table>
 
-<p>More publication and citation details are available on <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ">Google Scholar</a>.</p>
+<p><em>Last synced from <a href="https://scholar.google.com/citations?user=OtccK6UAAAAJ&amp;hl=en&amp;pagesize=100">Google Scholar</a>. Automated weekly sync is enabled.</em></p>
 <!-- SCHOLAR-LIST:END -->
 
 ## Leadership
